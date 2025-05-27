@@ -1,6 +1,3 @@
-Berikut adalah isi lengkap file `README.md` dalam format Markdown, siap kamu copy-paste:
-
-```markdown
 # Journalyze: NLP-powered Diary Analyzer
 
 Journalyze adalah aplikasi prototipe berbasis Python untuk menganalisis entri jurnal harian menggunakan teknologi Natural Language Processing (NLP). Aplikasi ini menyatukan Named Entity Recognition (NER), klasifikasi emosi, dan rangkuman teks, serta menyediakan visualisasi hasil analisis.
