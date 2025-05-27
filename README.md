@@ -5,13 +5,11 @@ Journalyze adalah aplikasi prototipe berbasis Python untuk menganalisis entri ju
 ## 📂 Struktur Proyek
 
 ```
-
-.
-├── 2nd\_meet\_brainstorming\_ide\_capstone\_fariz\_(ner\_+*text\_summarization*+*text*+\_results\_viz).ipynb
-├── FINAL\_of\_text\_summarization\_fariz\_laskar.ipynb
-├── journalyze\_no-db.py
-├── ner\_fariz\_laskar.ipynb
-├── text\_classification\_fariz\_laskar.ipynb
+├── 2nd_meet_brainstorming_ide_capstone_fariz_(ner_+text_summarization+text+_results_viz).ipynb
+├── FINAL_of_text_summarization_fariz_laskar.ipynb
+├── journalyze_no-db.py
+├── ner_fariz_laskar.ipynb
+├── text_classification_fariz_laskar.ipynb
 ├── requirements.txt
 └── README.md
 
