@@ -7,7 +7,7 @@ Journalyze adalah aplikasi prototipe berbasis Python untuk menganalisis entri ju
 ```
 ├── 2nd_meet_brainstorming_ide_capstone_fariz_(ner_+text_summarization+text+_results_viz).ipynb
 ├── FINAL_of_text_summarization_fariz_laskar.ipynb
-├── journalyze_no-db.py
+├── journalyze.py
 ├── ner_fariz_laskar.ipynb
 ├── text_classification_fariz_laskar.ipynb
 ├── requirements.txt
@@ -23,7 +23,7 @@ Journalyze adalah aplikasi prototipe berbasis Python untuk menganalisis entri ju
 | `FINAL_of_text_summarization_fariz_laskar.ipynb` | Notebook untuk fine-tuning model text summarization berbasis model BART. |
 | `ner_fariz_laskar.ipynb` | Notebook fine-tuning model Named Entity Recognition (NER) menggunakan BERT. |
 | `text_classification_fariz_laskar.ipynb` | Notebook fine-tuning model klasifikasi emosi berdasarkan entri jurnal. |
-| `journalyze_no-db.py` | Script utama prototipe aplikasi analisis jurnal (tanpa integrasi database). |
+| `journalyze_.py` | Script utama prototipe aplikasi analisis jurnal. |
 | `requirements.txt` | Daftar dependensi Python yang diperlukan untuk menjalankan aplikasi. |
 | `README.md` | Dokumentasi proyek. |
 
